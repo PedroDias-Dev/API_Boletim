@@ -86,9 +86,15 @@ D:\Prog\VSCommunity\API_Boletim\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysi
 D:\Prog\VSCommunity\API_Boletim\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Prog\VSCommunity\API_Boletim\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Prog\VSCommunity\API_Boletim\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Prog\VSCommunity\API_Boletim\obj\Debug\netcoreapp3.1\API_Boletim.csproj.CoreCompileInputs.cache
-D:\Prog\VSCommunity\API_Boletim\obj\Debug\netcoreapp3.1\API_Boletim.MvcApplicationPartsAssemblyInfo.cache
 D:\Prog\VSCommunity\API_Boletim\obj\Debug\netcoreapp3.1\API_Boletim.csproj.CopyComplete
 D:\Prog\VSCommunity\API_Boletim\obj\Debug\netcoreapp3.1\API_Boletim.dll
 D:\Prog\VSCommunity\API_Boletim\obj\Debug\netcoreapp3.1\API_Boletim.pdb
 D:\Prog\VSCommunity\API_Boletim\obj\Debug\netcoreapp3.1\API_Boletim.genruntimeconfig.cache
+D:\Prog\VSCommunity\API_Boletim\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Prog\VSCommunity\API_Boletim\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Prog\VSCommunity\API_Boletim\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Prog\VSCommunity\API_Boletim\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Prog\VSCommunity\API_Boletim\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Prog\VSCommunity\API_Boletim\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Prog\VSCommunity\API_Boletim\obj\Debug\netcoreapp3.1\API_Boletim.csproj.CoreCompileInputs.cache
+D:\Prog\VSCommunity\API_Boletim\obj\Debug\netcoreapp3.1\API_Boletim.MvcApplicationPartsAssemblyInfo.cache

@@ -14,8 +14,8 @@ namespace API_Boletim.Interfaces
 
         Aluno BuscarPorId(int id);
 
-        Aluno Alterar(Aluno a);
+        Aluno Alterar(int id, Aluno a);
 
-        Aluno Excluir(Aluno a);
+        void Excluir(int id);
     }
 }
